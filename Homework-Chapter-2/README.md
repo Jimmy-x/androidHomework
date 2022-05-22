@@ -1,1 +1,3 @@
-# Homework Template
+# androidHomework
+徐继晟 519021910324安卓作业
+注: 进入app后 点击两次安卓图标进入作业查看页面
